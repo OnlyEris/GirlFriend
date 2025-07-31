@@ -33,10 +33,10 @@ body::before {
 }
 
 @media (max-width: 768px) {
-  body {
-    background-attachment: scroll;
+  .album-frame {
+    width: 90%;
+    padding: 20px;
   }
-}
 
 
   .album-frame img {
